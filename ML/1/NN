@@ -1,5 +1,10 @@
 NN--line function x--centre--y
-输入一堆x 通过神经元 得到y
-![nn](WeChatede745da5aa90a240f7ced1725886202.png)
-[在readme中加图片】
-![这里随便写文字](你刚复制的图片路径)
+输入一堆x 通过神经元 得到y [x==featrues]
+supervisor learning --neural network；
+
+    ![nn](WeChatede745da5aa90a240f7ced1725886202.png)
+    [在readme中加图片】
+    ![这里随便写文字](你刚复制的图片路径)
+    ![](img_url)
+    即 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。
+   
