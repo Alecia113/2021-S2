@@ -1,0 +1,71 @@
+open tableau desktop
+more
+到文件
+microsoft excel
+open source
+看你想画什么，将表格中的一个拖到canvas上
+可以拖很多个source
+综合图：可以在connections 点add
+text file 
+可以加另一个excel或者文件。
+两个文本之间有两个铁环相连接，可以点铁环直接编辑；
+可以改数据形式。
+然后就各种点，在数据后面加列什么的
+extract ；uptodate
+左下角sheet；可以拖动
+定义rows和colums定义color
+【drop field here 在此插入字段，比如把sales丢进去，列多来几个相同的年份标题，就是各个年份的对比】
+还可以把年份丢进颜色里。
+反正就是各种拖动。看起来重点还是数据的分析和对比什么的
+何时做的好什么数量做的好。
+right键copy image
+sheet1也可以改名字
+还可以右键copy data 然后丢进Excel；直接就是excel不是图片了
+right tableau的标题；点duplicate as crosstab
+点server下的那个横纵转换
+反正就是怎么变，然后看着方便就行。
+变色，右边右highlight可以标记更清楚。
+还可以添加new sheet
+show me 点它，再点feature，你就能看到模拟图了。以及哪些类别的图可以提现
+ 还有魔法圈可以圈图片
+ 可以将比如category 丢到 filters过滤器，找到future；然后在点击filter中的category furniture然后点击show filter
+ 然后在右边就能看到了，这里是category
+ 点击下三角，点single value（list），这样就能容易的去选择category了。【虽然我没看出来有何差别】
+ furniture【家具】哪种家具poorly
+ 【show me；然后把你涵盖的所有feature都选上，然后挑图看哪个好。】
+ 还可以把feature改名
+ 还可以从高到底排列。【在横坐标的右边，还能加颜色】
+ 可以合并：把你想合并的行的title选中，然后点曲别针【就合并了，估计双击，还能改名字】
+ 
+ ---
+ 
+ 圆圈图；可点analysis--aggregate measures总体措施
+ 可以将marks中的【方框中T】点它变成label，然后可以将某feature拖动到label上，text可以改label格式。
+ 
+ 把某feature丢进size，圈会变大变小。
+ 然后点左手data旁边的analytics，然后把比如model中的trend line拖到canvas上
+canvas上圈动数据可以看具体的数据情况、
+
+--
+做完五个图想share了
+
+点开一个新的。然后点左边size；更改laptop browser（800）
+然后你能看见所有的sheets
+然后可以都拖动到canvas上。
+右手的category（某属性在不同表上存在）想一起调配：点右遍的下三角--apply to worksheets-all using this data source【这回一遍都变】
+如果map上一个点，可以点这张map图的下三角和×中间的漏斗
+
+--
+新建story 【像书的那个below】
+还是改size
+把size改成automatic
+然后就可以评述了。在上面的框里。
+
+--
+
+publish
+在server：publish workbook
+然后把属性标记好，就可以了，退回在content中可以看到subscribe
+
+
+
