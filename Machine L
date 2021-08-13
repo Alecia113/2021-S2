@@ -1,0 +1,24 @@
+#Installation with mamba or conda:[
+mamba install -c conda-forge jupyterlab
+conda install -c conda-forge jupyterlab
+pip install jupyterlab
+]
+jupyter-lab
+[open]
+***If installing using pip install --user, you must add the user-level bin directory to your PATH environment variable in order to launch jupyter lab. If you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), you can achieve this by using export PATH="$HOME/.local/bin:$PATH" command.
+***
+#Getting started with the classic Jupyter Notebook:[
+mamba install -c conda-forge notebook
+conda install -c conda-forge notebook
+pip install notebook
+]
+[open] jupyter notebook
+
+Getting started with Voilà:[
+mamba install -c conda-forge voila
+conda install -c conda-forge voila
+pip install voila
+]
+
+#Ipython 3 (Jupyter) notebook installed on your computer http://jupyter.org/install (you need to have Python installed first https://docs.python.org/3/using/index.html )
+Web-based Ipython notebooks such as Google Colaboratory https://colab.research.google.com/
