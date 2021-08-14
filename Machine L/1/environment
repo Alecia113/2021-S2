@@ -22,3 +22,15 @@ pip install voila
 
 #Ipython 3 (Jupyter) notebook installed on your computer http://jupyter.org/install (you need to have Python installed first https://docs.python.org/3/using/index.html )
 Web-based Ipython notebooks such as Google Colaboratory https://colab.research.google.com/
+
+
+#jupyter 代码补全 mac
+下面默认bash在初始状态，如果bash前面没有(base)那么
+
+conda activate
+  #and
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter notebook
+
+#勾选：在nbextensions板块勾选Hinterland
